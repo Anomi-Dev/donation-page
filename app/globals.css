@@ -15,6 +15,13 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+.blur-background {
+  background-image: url('/dayz-open-field-background.jpg');
+  background-size: cover;
+  background-position: center;
+  filter: blur(8px); /* Adjust the blur amount as needed */
+  /* You can also add additional properties like opacity, height, etc. */
+}
 
 body {
   color: rgb(var(--foreground-rgb));

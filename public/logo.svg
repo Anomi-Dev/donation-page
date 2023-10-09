@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Finger Paint">@import url(https://fonts.googleapis.com/css2?family=Finger+Paint%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <rect width="500" height="500" style="stroke: rgb(0, 0, 0); fill: rgba(14, 12, 12, 0.94);"/>
+  <text style="fill: rgb(110, 37, 188); font-family: 'Finger Paint'; font-size: 17.2px; letter-spacing: 0.3px; text-anchor: middle; text-transform: uppercase; word-spacing: 5.3px; white-space: pre;" transform="matrix(25.722944259643555, 0, 0, 19.72353172302246, -5700.64013671875, -3567.91748046875)" x="231.252" y="199.757">R</text>
+</svg>
