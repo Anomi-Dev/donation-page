@@ -90,7 +90,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
             <div className="block rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
               <div className="relative overflow-hidden bg-cover bg-no-repeat" data-te-ripple-init data-te-ripple-color="light">
-                <img className="rounded-t-lg" src="logotest.png" alt="" />
+                <img className="rounded-t-lg" src="revolution-logo.png" alt="" />
                 <a href="https://buy.stripe.com/test_3cs2aA5vr5ud0k8fYY">
                   <div className="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-[hsla(0,0%,98%,0.15)] bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-100">
                   </div>
@@ -115,7 +115,7 @@ export default function Home() {
             </div>
             <div className="block rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
               <div className="relative overflow-hidden bg-cover bg-no-repeat" data-te-ripple-init data-te-ripple-color="light">
-                <img className="rounded-t-lg" src="logotest.png" alt=""  />
+                <img className="rounded-t-lg" src="revolution-logo.png" alt=""  />
                 <a href="https://buy.stripe.com/test_3cs2aA5vr5ud0k8fYY">
                   <div className="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-[hsla(0,0%,98%,0.15)] bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-100">
                   </div>
@@ -140,7 +140,7 @@ export default function Home() {
             </div>
             <div className="block rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-neutral-700">
               <div className="relative overflow-hidden bg-cover bg-no-repeat" data-te-ripple-init data-te-ripple-color="light">
-                <img className="rounded-t-lg" src="logotest.png" alt="" />
+                <img className="rounded-t-lg" src="revolution-logo.png" alt="" />
                 <a href="https://buy.stripe.com/test_3cs2aA5vr5ud0k8fYY">
                   <div className="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-[hsla(0,0%,98%,0.15)] bg-fixed opacity-0 transition duration-300 ease-in-out hover:opacity-100">
                   </div>
